@@ -2891,6 +2891,17 @@
                          "width":24,
                          "x":1380.66666666667,
                          "y":1841.33333333333
+                        }, 
+                        {
+                         "height":0,
+                         "id":15,
+                         "name":"",
+                         "rotation":0,
+                         "type":"",
+                         "visible":true,
+                         "width":0,
+                         "x":1028,
+                         "y":1611.33333333333
                         }],
                  "opacity":1,
                  "type":"objectgroup",
@@ -4163,7 +4174,7 @@
          "y":0
         }],
  "nextlayerid":130,
- "nextobjectid":15,
+ "nextobjectid":16,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -4199,7 +4210,7 @@
         {
          "name":"versionTag",
          "type":"string",
-         "value":"live-002"
+         "value":"live-003"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
