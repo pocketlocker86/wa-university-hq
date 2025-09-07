@@ -2845,6 +2845,7 @@
                  "y":0
                 }, 
                 {
+                 "class":"area",
                  "draworder":"topdown",
                  "id":129,
                  "name":"laptop_interact",
@@ -2902,8 +2903,67 @@
                          "width":0,
                          "x":1028,
                          "y":1611.33333333333
+                        }, 
+                        {
+                         "height":0,
+                         "id":16,
+                         "name":"",
+                         "rotation":0,
+                         "type":"",
+                         "visible":true,
+                         "width":0,
+                         "x":1293.33333333333,
+                         "y":1864
+                        }, 
+                        {
+                         "height":0,
+                         "id":17,
+                         "name":"",
+                         "rotation":0,
+                         "type":"",
+                         "visible":true,
+                         "width":0,
+                         "x":1393.33333333333,
+                         "y":1857.33333333333
+                        }, 
+                        {
+                         "height":0,
+                         "id":18,
+                         "name":"",
+                         "rotation":0,
+                         "type":"",
+                         "visible":true,
+                         "width":0,
+                         "x":1393.33333333333,
+                         "y":1851.33333333333
                         }],
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"debugTag",
+                         "type":"string",
+                         "value":"laptop-1"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/pocketlocker86.github.io\/wa-university-hq\/embed-test.html"
+                        }, 
+                        {
+                         "name":"openWebsiteHeight",
+                         "type":"int",
+                         "value":60
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction "
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":80
+                        }],
                  "type":"objectgroup",
                  "visible":true,
                  "x":0,
@@ -4174,7 +4234,7 @@
          "y":0
         }],
  "nextlayerid":130,
- "nextobjectid":16,
+ "nextobjectid":19,
  "orientation":"orthogonal",
  "properties":[
         {
