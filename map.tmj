@@ -2846,18 +2846,18 @@
                 }, 
                 {
                  "draworder":"topdown",
-                 "id":131,
-                 "name":"laptop_interact",
+                 "id":132,
+                 "name":"test_hotspot",
                  "objects":[
                         {
-                         "height":64,
-                         "id":28,
+                         "height":238.666666666667,
+                         "id":29,
                          "name":"laptop-1",
                          "properties":[
                                 {
                                  "name":"openTab",
                                  "type":"string",
-                                 "value":"https:\/\/example.org"
+                                 "value":"https:\/\/www.worldofcardgames.com"
                                 }, 
                                 {
                                  "name":"openWebsiteTrigger",
@@ -2867,9 +2867,9 @@
                          "rotation":0,
                          "type":"area",
                          "visible":true,
-                         "width":64,
-                         "x":1512,
-                         "y":2026
+                         "width":124,
+                         "x":1471.33333333333,
+                         "y":1830
                         }],
                  "opacity":1,
                  "type":"objectgroup",
@@ -4141,8 +4141,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":132,
- "nextobjectid":29,
+ "nextlayerid":133,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {
